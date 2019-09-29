@@ -11,7 +11,7 @@ export const appComponent = new AppComponent({
   template: `
   <div>
     <app-header></app-header>
-    <h1>App component works</h1>
+    <router-outlet></router-outlet>
   </div>
   `
 });

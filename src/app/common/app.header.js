@@ -13,8 +13,8 @@ export const appHeader = new AppHeader({
   <div class="nav-wrapper">
     <a href="#" class="brand-logo">Movies Data Base</a>
     <ul class="right">
-      <li><a href="#"></a></li>
-      <li><a href="#"></a></li>
+      <li><a href="#">Home</a></li>
+      <li><a href="#top-rated">Top Rated Films</a></li>
     </ul>
   </div>
 </nav>`
